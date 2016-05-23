@@ -1,0 +1,6 @@
+C:\Users\Good\Documents\Origin\12-VSTDA-Backend\TheCountToOneHundred\TheCountToOneHundred\bin\Debug\TheCountToOneHundred.exe.config
+C:\Users\Good\Documents\Origin\12-VSTDA-Backend\TheCountToOneHundred\TheCountToOneHundred\bin\Debug\TheCountToOneHundred.exe
+C:\Users\Good\Documents\Origin\12-VSTDA-Backend\TheCountToOneHundred\TheCountToOneHundred\bin\Debug\TheCountToOneHundred.pdb
+C:\Users\Good\Documents\Origin\12-VSTDA-Backend\TheCountToOneHundred\TheCountToOneHundred\obj\Debug\TheCountToOneHundred.csprojResolveAssemblyReference.cache
+C:\Users\Good\Documents\Origin\12-VSTDA-Backend\TheCountToOneHundred\TheCountToOneHundred\obj\Debug\TheCountToOneHundred.exe
+C:\Users\Good\Documents\Origin\12-VSTDA-Backend\TheCountToOneHundred\TheCountToOneHundred\obj\Debug\TheCountToOneHundred.pdb
